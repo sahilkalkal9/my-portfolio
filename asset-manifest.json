@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cdc01203.css",
-    "main.js": "/static/js/main.429ba5c2.js",
+    "main.js": "/static/js/main.ab269d98.js",
     "static/js/988.007733ea.chunk.js": "/static/js/988.007733ea.chunk.js",
     "static/media/me.png": "/static/media/me.82e046580b1b2e5eeffe.png",
     "static/media/error.png": "/static/media/error.d37c2798b70ca2c0f45f.png",
     "static/media/chemictionary.png": "/static/media/chemictionary.dfa7bd24ae441aa6516d.png",
     "static/media/coder.png": "/static/media/coder.5fa52e3959316bc21184.png",
     "static/media/strayfarm.png": "/static/media/strayfarm.e0fc9a5f90771bf99d68.png",
-    "static/media/instagram.png": "/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/instagram.png": "/static/media/instagram.1792ff30fb032c94685c.png",
     "static/media/react.png": "/static/media/react.17e5cb984343d1346ebd.png",
     "static/media/discord.png": "/static/media/discord.87103b7fb8f04ea4d3ef.png",
     "static/media/sql.png": "/static/media/sql.96af83e68e3b32fb2dd7.png",
@@ -26,11 +26,11 @@
     "static/media/firebase.png": "/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/index.html",
     "main.cdc01203.css.map": "/static/css/main.cdc01203.css.map",
-    "main.429ba5c2.js.map": "/static/js/main.429ba5c2.js.map",
+    "main.ab269d98.js.map": "/static/js/main.ab269d98.js.map",
     "988.007733ea.chunk.js.map": "/static/js/988.007733ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdc01203.css",
-    "static/js/main.429ba5c2.js"
+    "static/js/main.ab269d98.js"
   ]
 }
